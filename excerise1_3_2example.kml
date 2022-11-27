@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+      <name>Placemarks</name>
+      <description>These are just some of the different kinds of placemarks with
+        which you can mark your favorite places</description>
+      <LookAt>
+        <longitude>8°48.136"E</longitude>
+        <latitude>53°4.659"N</latitude>
+        <altitude>0</altitude>
+        <heading>-148.4122922628044</heading>
+        <tilt>40.5575073395506</tilt>
+        <range>500.6566641072245</range>
+      </LookAt>
+      <Placemark>
+        <name>My office</name>
+        <description>Attached to the ground. Intelligently places itself at the
+          height of the underlying terrain.</description>
+        <Point>
+          <coordinates>8°48.136"E,53°4.659",0</coordinates>
+        </Point>
+      </Placemark>
+  </Document>
+</kml>
